@@ -1,5 +1,7 @@
 # HOLD
 
+RH CA : 0x0b059525b10deba7a75fc28c5aae98d07747918e
+
 ### Pay by handle, not by address.
 
 HOLD makes crypto payments simpler.
